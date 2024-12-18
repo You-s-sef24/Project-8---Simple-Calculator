@@ -1,0 +1,30 @@
+.body {
+  background-color: gray;
+}
+
+.btn {
+  width: 60px;
+  height: 60px;
+  box-shadow: 0 4px #3b3b3b;
+}
+
+.screen {
+  height: 100px;
+  font-size: 40px;
+  width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+  text-align: left;
+}
+
+.container {
+  border-radius: 12px;
+  padding-bottom: 9px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+  max-width: 400px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 32px;
+}
